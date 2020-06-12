@@ -1,1 +1,1 @@
-F2-CHANGE 'A' file content
+F2-CHANGE AND F3-CHANGE (CONFLICT SOLVED) 'A' file content
